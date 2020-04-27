@@ -21,7 +21,7 @@
 <th>
 <img src="https://images-na.ssl-images-amazon.com/images/I/51xORuMi9WL._SX328_BO1,204,203,200_.jpg"></br></th>
 <th><a href="https://en.wikipedia.org/wiki/Mars_trilogy">READ</a></br>
-<a href="file:///D:/b11/pirple/books%20type.html">BACK</a></th>
+<a href="bookstype.md">BACK</a></th>
 </ul>
 </ol>
 </th>
