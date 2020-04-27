@@ -21,7 +21,7 @@ password:
 <input type="submit" value="LOGIN">
 </form>
 <input type="reset" ></br></br>
-<a href="file:///D:/b11/pirple/books%20type.html">LOGIN</a></br></br>
+<a href="books type.html">LOGIN</a></br></br>
 <a href="file:///D:/b11/pirple/registration.html">REGISTRATION</a>
 </th></tr>
 </table>
