@@ -16,7 +16,7 @@
 <ul>
 <li>Comics</li>
 <ul>
-<li><a href="file:///D:/b11/pirple/Comics.html">
+<li><a href="Comics.md">
 BOOKS</a></li></ul></ul>
 <center>
 <a href="file:///D:/b11/pirple/login.html">LOGOUT</a>
