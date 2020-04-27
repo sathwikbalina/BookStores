@@ -1,14 +1,6 @@
 <html>
 <h1>Science Fiction Books</h1>
 <body>
-<style>
-body<!--- {
-background-image: url('fic.jpg');
-background-repeat: no-repeat;
-background-attachment: fixed;
-background-size: cover;  
-}---!>
-</style>
 <ol>
 <table>
 <table border="border">
@@ -18,7 +10,7 @@ background-size: cover;
 <ul> 
 <li>-by Jules verne(1864)</li></th>
 <th>
-<img src="action.jpg" width=30% height=20%></br></th>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/67/A_Journey_to_the_Centre_of_the_Earth-1874.jpg"></br></th>
 <th><a href="https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth">READ</a></br>
 <a href="file:///D:/b11/pirple/books%20type.html">BACK</a></th>
 <tr>
