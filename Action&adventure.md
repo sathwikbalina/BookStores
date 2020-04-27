@@ -12,7 +12,7 @@
 <th><img src="https://irs.www.warnerbros.com/keyart-jpeg/movies/media/browser/harry_potter_8film_2000x3000.jpg"></br></br></th>
 <th>
 <a href="https://en.wikipedia.org/wiki/Harry_Potter">READ</a></br>
-<a href="file:///D:/b11/pirple/books%20type.html">BACK</a></th>
+<a href="bookstype.md">BACK</a></th>
 <tr>
 <th>
 <li>Harry Potter and the Half-Blood Prince</li>
@@ -21,7 +21,7 @@
 <th><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Harry_Potter_and_the_Half-Blood_Prince_cover.png/220px-Harry_Potter_and_the_Half-Blood_Prince_cover.png"></br></br></th>
 <th>
 <a href="https://en.wikipedia.org/wiki/Harry_Potter_and_the_Half-Blood_Prince">READ</a></br>
-<a href="file:///D:/b11/pirple/books%20type.html">BACK</a></th>
+<a href="bookstype.md">BACK</a></th>
 </ul>
 </ol>
 </th>
