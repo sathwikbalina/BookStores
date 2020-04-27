@@ -19,7 +19,7 @@
 <li><a href="Comics.md">
 BOOKS</a></li></ul></ul>
 <center>
-<a href="file:///D:/b11/pirple/login.html">LOGOUT</a>
+<a href="README.md">LOGOUT</a>
 </center>
 </body>
 </html>
