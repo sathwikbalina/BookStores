@@ -1,4 +1,4 @@
-<!---<html>
+<html>
 <table>
 <table border="border"><center>
 <h2 style="font-family:verdana;">
@@ -34,30 +34,5 @@ password:
 <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497927666l/29152019._SX318_.jpg"></th>
 <th>
 <img src="https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/1/48/148a1e9c-aaf3-11e8-885d-079a0511e993/5b859946aaa7a.image.jpg?resize=400%2C265"></th>
-</body>
-</html>!--->
-<html>
-<h1>Type of book<h1>
-<body>
-<ul>
-<li>Science Fiction Books</li>
-<ul>
-<li><a href="file:///D:/b11/pirple/fictional.html">BOOKS</a></li></ul></ul>
-<ul>
-<li>Action and Adventure Books</li>
-<ul>
-<li><a href="file:///D:/b11/pirple/Action&adventure.html">BOOKS</a></li></ul></ul>
-<ul>
-<li>Mystery Books</li>
-<ul>
-<li><a href="file:///D:/b11/pirple/Mystery.html">BOOKS</a></li></ul></ul>
-<ul>
-<li>Comics</li>
-<ul>
-<li><a href="file:///D:/b11/pirple/Comics.html">
-BOOKS</a></li></ul></ul>
-<center>
-<a href="file:///D:/b11/pirple/login.html">LOGOUT</a>
-</center>
 </body>
 </html>
